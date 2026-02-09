@@ -1,4 +1,5 @@
-# EXAMPLE
+
+# Coding
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -274,7 +275,7 @@
 </body>
 </html>
 
-# Output
+# Achivement
 <img width="1765" height="585" alt="image" src="https://github.com/user-attachments/assets/dbbf2269-eb9c-48b0-809c-412bd264d6d6" />
 
 
