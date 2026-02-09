@@ -273,5 +273,10 @@
     </script>
 </body>
 </html>
- *output*
+
+# Output
+<img width="1765" height="585" alt="image" src="https://github.com/user-attachments/assets/dbbf2269-eb9c-48b0-809c-412bd264d6d6" />
+
+
+ # Output
  https://rajeshwari69514-boop.github.io/First-achievement/
